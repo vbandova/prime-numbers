@@ -5,6 +5,11 @@
 * Maven 3.6.3
 * Swagger 2.9.2
 
+## Build and run:
+* mvn clean install
+* mvn spring-boot:run
+* open http://localhost:8080/swagger-ui.html
+
 ## Thread safety:
 Project is thread safe, as there are only calculations capsuled in functions. No possible shared data.
 

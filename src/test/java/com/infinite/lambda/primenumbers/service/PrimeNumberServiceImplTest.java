@@ -125,8 +125,4 @@ class PrimeNumberServiceImplTest {
         );
     }
 
-    @Test
-    void name() {
-        System.out.println(Long.MAX_VALUE);
-    }
 }
